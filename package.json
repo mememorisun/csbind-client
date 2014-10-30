@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-uglify": "^1.0.x",
+    "gulp-concat": "^2.4.x"
+  }
+}

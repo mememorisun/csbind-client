@@ -1,0 +1,20 @@
+{
+  "globalstrict": true,
+  "globals": {
+    "describe": false,
+    "it": false,
+    "expect": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "spyOn": false,
+    "module": false,
+    "inject": false,
+    "_":false,
+    "csbc":false,
+    "fake": false,
+    "setTimeout": false,
+    "csbc":false,
+    "console":false,
+    "require": false
+  }
+}
