@@ -1,6 +1,6 @@
 {
   "name": "csbind-client",
-  "version": "0.0.0beta0",
+  "version": "0.0.0beta1",
   "main": "./csbind-client.js",
   "dependencies": {
     "underscore": "1.7.x",
