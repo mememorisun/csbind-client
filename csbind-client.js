@@ -481,11 +481,10 @@ var csbc = {};
     }
 
     function _check(){
-      /*
       funs.send('csbindSend' + name, {
         values:_getValues(),
         mode:'check'
-      });*/
+      });
     }
 
     returnObj = {
