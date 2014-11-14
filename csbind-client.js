@@ -229,7 +229,7 @@ var csbc = {};
       } else {
         z = csbc.deepClone(x);
       }
-      return isEveryHasKeysArray(z, necKeysArray);
+      return _.isEqual([], z) ||  isEveryHasKeysArray(z, necKeysArray);
     };
   };
 
